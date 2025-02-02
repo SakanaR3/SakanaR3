@@ -1,3 +1,7 @@
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 - 👋 Hi, I’m @SakanaR3
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
